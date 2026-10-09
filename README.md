@@ -9,6 +9,7 @@ In the ensemble release 2026-07, the TERT gene has 12 transcripts comprising of 
 Four known protein isoforms are produced from the TERT gene by alternative splicing. The canonical sequence chosen on Uniprot has 1132 amino acids, the other isoforms has lengths of 807, 1069, and 795 amino acids. 
 
 The existence of various transcripts and protein isoforms of the TERT gene and its gene product has important implications. One of which is that the expression and function of the gene could potentially be controlled by alternative splicing and by factors which would modulate the alternative splicing, driving the preferential production of one or more transcripts and isoforms based on different signals. 
+<img width="1918" height="973" alt="ensembl TERT" src="https://github.com/user-attachments/assets/398e38e4-a628-4e22-9211-e5431c3f89a2" />
 
 
 
